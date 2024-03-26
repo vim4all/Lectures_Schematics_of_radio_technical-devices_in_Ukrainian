@@ -2,9 +2,7 @@
 
 ---
 
-### Факти про дисципліну
-
-Сторінка в СДН Moodle: https://eln.stu.cn.ua/course/view.php?id=4578
+Сторінка в Moodle: https://eln.stu.cn.ua/course/view.php?id=4578
 
 - Викладач: Пахалюк Богдан Петрович, аспірант
 
@@ -12,16 +10,6 @@
 
 - Мова викладання: українська.
 
-- Обсяг дисципліни: 90 год (3 кредити ECTS).
-
-- Лекцій – 16 (4) год.
-
-- Лабораторних занять – 14 (8) год.
-
-- Самостійна робота – 60 год.
-
-- Підсумковий контроль – залік.
-
-- Індивідуальне завдання – РГР.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vim4all/Lectures_Schematics_of_radio_technical-devices_in_Ukrainian/HEAD)
 
 ---
