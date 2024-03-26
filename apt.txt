@@ -1,2 +1,2 @@
 ngspice
-libngspice0
+libngspice0-dev
