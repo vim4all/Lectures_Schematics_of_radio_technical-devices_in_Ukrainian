@@ -1,1 +1,2 @@
+ngspice
 libngspice0
