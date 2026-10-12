@@ -1,1 +1,8 @@
-/.ipynb_checkpoints/Схемотехніка радіотехнічних пристроїв-checkpoint.ipynb
+temp
+/.ipynb_checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# compiled PDFs are published as GitHub Release assets (tools/regenerate_pdfs.py)
+pdf/
+*.pdf
